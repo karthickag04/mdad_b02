@@ -1,149 +1,98 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[5]:
-
-
+# This section demonstrates arithmetic and comparison operators
 x = 10
 y = 20
 
-# arithmatic operator
-print(x+y)
-print(x*y)
-print(x-y)
-print(x/y)
-print(x%y)
-print(x**y)
+# Arithmetic operators
+print(x + y)  # Addition
+print(x * y)  # Multiplication
+print(x - y)  # Subtraction
+print(x / y)  # Division
+print(x % y)  # Modulus
+print(x ** y) # Exponentiation
 
-# comparision operator
-print(x==y)
-print(x<y)
-print(x>y)
-print(x<=y)
-print(x>=y)
+# Comparison operators
+print(x == y)  # Equal to
+print(x < y)   # Less than
+print(x > y)   # Greater than
+print(x <= y)  # Less than or equal to
+print(x >= y)  # Greater than or equal to
 
-
-
-# In[6]:
-
-
+# Function demonstrating arithmetic operations
 def operatordemo():
     z = 10
     v = 10
-    print(z + v)
-    print(z - v)
-    print(z * v)
-    print(z / v)
+    print(z + v)  # Addition
+    print(z - v)  # Subtraction
+    print(z * v)  # Multiplication
+    print(z / v)  # Division
 
-
-# In[8]:
-
-
+# Calling the function multiple times
 operatordemo()
 operatordemo()
 operatordemo()
 operatordemo()
 
-
-# In[20]:
-
-
+# Function demonstrating addition with formatted print statements
 def addition():
     z = 10
     v = 11
-    print( "added value of z and v is " , z + v)
-    print( "added value of z :" ,z,"and v:" ,v, " is ", z + v)
-    print( f"added value of z : {z} and v: {v} is" , z + v)
+    print("added value of z and v is", z + v)
+    print("added value of z:", z, "and v:", v, "is", z + v)
+    print(f"added value of z: {z} and v: {v} is", z + v)
 
 addition()
 
-
-# In[22]:
-
-
+# Function demonstrating addition with a return statement
 def additionr():
     z = 10
     v = 11
     return z + v
 
-additionr()
+# Calling the function with return value
+result_1 = addition()
+result_2 = additionr()
 
+# Printing the results
+print(result_1)
+print(result_2)
 
-# In[23]:
+# Conditional check on the return values
+if result_1 == 21:
+    print("it's equal under normal")
+if result_2 == 21:
+    print("it's equal under return")
 
-
-resutl_1=addition()
-resutl_2=additionr()
-
-
-# In[24]:
-
-
-print(resutl_1)
-
-
-# In[25]:
-
-
-print(resutl_2)
-
-
-# In[27]:
-
-
-if(resutl_1==21):
-    print("its equal under normal")
-if(resutl_2==21):
-    print("its equal under r")
-
-
-# In[29]:
-
-
-def addition_wit_args(z,v):
+# Function demonstrating addition with arguments
+def addition_with_args(z, v):
     return z + v
 
-addition_wit_args(10,31)
+# Calling the function with arguments
+addition_with_args(10, 31)
 
+# Function demonstrating multiple arithmetic operations with comments
+def operatordemo1(x, y):
+    """This function takes two numbers and performs various operations"""
+    print("addition", x + y)
+    print("addition", x + y)
+    print("addition", x + y)
+    print("addition", x + y)
+    print("addition", x + y)
+    print("addition", x + y)
+    print("addition", x + y)
 
-# In[31]:
-
-
-x
-
-
-# In[34]:
-
-
-def operatordemo1(x,y):
-    """This function takes two numbers and returns their sum"""
-    print("addition",x+y)
-    print("addition",x+y)
-    print("addition",x+y)
-    print("addition",x+y)
-    print("addition",x+y)
-    print("addition",x+y)
-    print("addition",x+y)
-
-
-# In[37]:
-
-
-def operator_with_if(operatorsymbol, x,y):
-    if(operatorsymbol=='+'):
+# Function demonstrating operations based on an operator symbol
+def operator_with_if(operator_symbol, x, y):
+    if operator_symbol == '+':
         print("addition", x + y)
-    elif(operatorsymbol == '-'):
+    elif operator_symbol == '-':
         print("subtraction", x - y)
-    
-    elif(operatorsymbol == '*'):
-        print("subtraction", x * y)
+    elif operator_symbol == '*':
+        print("multiplication", x * y)
     else:
         print("division", x / y)
 
-
-
-# In[38]:
-
-
-operatordemowithselection('+',33,22)
-
+# Calling the function with operator symbol and arguments
+operator_with_if('+', 33, 22)
