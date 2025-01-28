@@ -1,0 +1,7 @@
+ADVANCED DEEP LEARNING APPLICATIONS
+✓ Labelreading using Optical Character Recognition
+✓ Smart attendance system
+✓ Vehicle detection
+✓ License plate recognition
+✓ Drowsiness detection
+✓ Road sign recognition
