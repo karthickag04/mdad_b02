@@ -1,3 +1,6 @@
 https://chatgpt.com/share/6752a0af-2124-800b-9744-fac5f2f7a86e
 
 https://chatgpt.com/share/68a6b71e-dbb4-800b-ac17-fd55852e263c
+
+CNN Tensorflow link - https://www.tensorflow.org/tutorials/images/cnn
+https://chatgpt.com/share/68ad45c8-c258-800b-95c2-526c865b1330
