@@ -10,3 +10,6 @@ https://chatgpt.com/share/68ad45c8-c258-800b-95c2-526c865b1330
 RNN Chat Ref
 https://chatgpt.com/share/68b93177-008c-800b-bc84-bf58511895fe
 
+OpenCV chat Ref added 
+https://chatgpt.com/share/68cce96a-c26c-800b-b0af-49a78c859d2e
+
