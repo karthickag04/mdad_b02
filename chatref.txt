@@ -1,2 +1,5 @@
 Common Interview Tasks for AI/ML Freshers chat ref
 https://chatgpt.com/share/68b2f477-4540-800b-89db-d671d2d05083
+
+Conversation on GIT implementation 
+https://chatgpt.com/share/68ec8a43-34c0-800b-aa7c-2f178513a4ed
