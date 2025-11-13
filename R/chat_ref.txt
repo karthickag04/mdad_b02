@@ -1,3 +1,6 @@
 
 Chat ref added for the Data Structures under R Programming Languages
 https://chatgpt.com/share/6915709b-1860-800b-a06c-932a710de3f6
+
+Chat Ref Added for Plots under R Language
+https://chatgpt.com/share/691570ad-2f58-800b-9a1e-f3a0dc0bb785
