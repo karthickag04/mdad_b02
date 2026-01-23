@@ -1,2 +1,5 @@
 chat ref for Naive Bayes 
 https://chatgpt.com/share/695f4815-6620-800b-83e5-b18c0ace726f
+
+chat ref for Confusion Matrix Explanation under Classification with two class
+https://chatgpt.com/share/697306ba-5174-800b-b523-2a18a2d769a7
