@@ -2,3 +2,7 @@ https://chatgpt.com/share/676a58ac-a1b8-800b-993c-556ee0d3fa61
 
 Complete chat reference on attendance dashboard
 https://chatgpt.com/share/682b3313-70b0-800b-82a8-a5d9b57dfbf4
+
+
+powerbi data exploration with dax
+https://chatgpt.com/share/69c3d4f4-5be4-83a7-835c-f640b49b3ac9
