@@ -1,0 +1,2 @@
+chat ref added for pyspark
+https://chatgpt.com/share/69ca0b71-fe94-83e8-9146-84e98c0f2dd1
