@@ -12,3 +12,5 @@ https://chatgpt.com/share/6a43b622-2ad4-83e8-82d6-0f0da7694525
 
 ML basic and its use case. 
 https://chatgpt.com/share/6a45075b-a5e0-83ee-9712-08932af7a65a
+KNN use cases
+https://chatgpt.com/share/6a4659b8-7368-83ee-962a-2b7a2df2ed25
