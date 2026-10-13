@@ -3,3 +3,7 @@ https://chatgpt.com/share/695f4815-6620-800b-83e5-b18c0ace726f
 
 chat ref for Confusion Matrix Explanation under Classification with two class
 https://chatgpt.com/share/697306ba-5174-800b-b523-2a18a2d769a7
+
+
+chat ref for DT Gini and Entroy math's workflow
+https://chatgpt.com/share/6ace0379-fc50-83e8-a2a1-37e3a56b5386
